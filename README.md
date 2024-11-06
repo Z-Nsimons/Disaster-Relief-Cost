@@ -1,0 +1,1 @@
+This project, titled ReliefCalc, is a Java program designed to calculate the estimated cost of a disaster relief effort based on user inputs. It includes costs for supplies, labor, land transportation, and an optional air transportation cost if needed.
